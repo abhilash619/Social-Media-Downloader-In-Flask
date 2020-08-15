@@ -7,5 +7,7 @@ Following libraries are required to run this web application:-
 
 2)pip install fb-down
 
+![ezgif com-optimize](https://user-images.githubusercontent.com/25238926/90310535-e6ecbf00-df0f-11ea-831e-85a400e2a042.gif)
+
 
 
